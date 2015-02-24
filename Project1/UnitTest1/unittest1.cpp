@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "CppUnitTest.h"
-#include "E:\uni\1r\Programació 2\Github\Programacio-2\Project1\Project1\Point2D.h"
+#include "F:\uni\1r\Programació 2\Github\Programacio-2\Project1\Project1\Point2D.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
